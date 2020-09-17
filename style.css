@@ -1,0 +1,25 @@
+*
+{
+	text-align: justify;
+	color:#444;
+}
+
+body
+{
+	margin: 70px auto;
+	padding:0 10px;
+	max-width: 650px;
+	text-align:justify;
+	line-height: 1.6;
+	font-size: 18px;
+}
+
+h2
+{
+	font-size:1.7em;
+}
+
+.link
+{
+	color:blue;
+}
